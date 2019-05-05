@@ -1,5 +1,8 @@
 # playing_with_data_using_pandas
 
+Presentation Slides 
+https://slides.com/abhijeetmote/deck-1#/
+
 Elevator Pitch: This era is of Data technology instead of Information Technology, Data is new gold so to make sense of this raw data we need to perform ETL operations. This we can do with an easier way using python,pandas,numpy Gather the raw data(Extraction), data cleaning, Data manipulation(Transformation), Export dataset in the required format(Loading)
 
 * Installation of the Pandas, Ipython package using Pip 
